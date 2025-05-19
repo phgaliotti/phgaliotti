@@ -1,4 +1,4 @@
-### Hey there! 👋 I'm Phelipe and everbody call me PH
+### Hey! I'm Phelipe — but everyone calls me PH
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
