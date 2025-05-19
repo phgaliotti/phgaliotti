@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey there! 👋 I'm Phelipe and everbody call me PH
 
-<!--
-**phgaliotti/phgaliotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-Here are some ideas to get you started:
+#### 📫 Let’s connect!
+[![Linkedin](https://img.shields.io/badge/Linkedin-phelipe_galiotti-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phelipegaliotti)
+[![Instagram](https://img.shields.io/badge/Instagram-phgaliotti-E1306C?style=flat&logo=instagram)](https://instagram.com/phgaliotti)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm Back-end developper from Brazil 🇧🇷
+
+🚀 I’m currently working on:
+- Building APIs in **Go** and **PHP**
+- Integrating services with **RabbitMQ**, **MySQL**, **PostgreSQL**, and **MongoDB**
+- Writing maintainable code using **clean architecture** principles
+
+🧠 I’m also learning more about:
+- Security
+- Creation and integration using AI
